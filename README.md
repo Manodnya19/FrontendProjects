@@ -3,6 +3,7 @@ Welcome to my frontend projects repository! Below, you'll find details about eac
 
 1. Blog component
 
+2. Price cards
 
-https://github.com/Manodnya19/FrontendProjects/assets/67191450/a5f253cc-b3f3-498f-bfc5-f292f9577ff2
+3. Contact us form
 
